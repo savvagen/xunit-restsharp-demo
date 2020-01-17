@@ -1,0 +1,98 @@
+{
+  "uuid": "8015bb15-a679-42c2-ba6d-e5bc063c5110-tr-0-1004",
+  "historyId": "nunit_restsharp_demo_project.AllureTest.EvenTest(3)",
+  "fullName": "nunit_restsharp_demo_project.AllureTest.EvenTest(3)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "odl1904002"
+    },
+    {
+      "name": "testClass",
+      "value": "nunit_restsharp_demo_project.AllureTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "EvenTest"
+    },
+    {
+      "name": "package",
+      "value": "nunit_restsharp_demo_project.AllureTest"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub#1",
+      "url": "https://jira.com/browse/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    }
+  ],
+  "name": "EvenTest(3)",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Oh no :( 3 % 2 = 1\n  Expected: True\n  But was:  False\n",
+    "trace": "   at nunit_restsharp_demo_project.AllureTest.EvenTest(Int32 value) in /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/AllureTest.cs:line 20\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "EvenTest(3)",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Oh no :( 3 % 2 = 1\n  Expected: True\n  But was:  False\n",
+        "trace": "   at nunit_restsharp_demo_project.AllureTest.EvenTest(Int32 value) in /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/AllureTest.cs:line 20\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "5ab677d7b9ca4e50a2ba7da56c4febe3-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1579029161933,
+      "stop": 1579029161934
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "3"
+    }
+  ],
+  "start": 1579029161933,
+  "stop": 1579029161934
+}
