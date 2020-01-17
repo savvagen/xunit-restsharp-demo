@@ -1,0 +1,94 @@
+{
+  "uuid": "c32f3d2e-c4aa-4aa5-beb8-08b9133c8385-tr-0-1003",
+  "historyId": "nunit_restsharp_demo_project.AllureTest.EvenTest(2)",
+  "fullName": "nunit_restsharp_demo_project.AllureTest.EvenTest(2)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "odl1904002"
+    },
+    {
+      "name": "testClass",
+      "value": "nunit_restsharp_demo_project.AllureTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "EvenTest"
+    },
+    {
+      "name": "package",
+      "value": "nunit_restsharp_demo_project.AllureTest"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub#1",
+      "url": "https://jira.com/browse/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    }
+  ],
+  "name": "EvenTest(2)",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "EvenTest(2)",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "77aa46a8f3f64fd3842fa7c05f2983d4-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1579029011326,
+      "stop": 1579029011326
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "2"
+    }
+  ],
+  "start": 1579029011326,
+  "stop": 1579029011326
+}
