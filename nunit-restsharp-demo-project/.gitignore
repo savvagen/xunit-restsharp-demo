@@ -1,5 +1,5 @@
 ../.idea
 /Logs
 myapp.log
-./allure-report
-./allure-results
+allure-report
+allure-results
