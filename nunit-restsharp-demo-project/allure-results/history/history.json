@@ -1,0 +1,393 @@
+{
+  "nunit_restsharp_demo_project.AllureTest.EvenTest(4)" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "b74b30a1d034e356",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201160,
+        "stop" : 1579030201160,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1f4fd17f4f64efd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201160,
+        "stop" : 1579030201160,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5a4f855ac790f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201160,
+        "stop" : 1579030201160,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a78f7c91b19fd2b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579029492558,
+        "stop" : 1579029492558,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8a963a353bc687a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579029492558,
+        "stop" : 1579029492558,
+        "duration" : 0
+      }
+    } ]
+  },
+  "nunit_restsharp_demo_project.AllureTest.EvenTest(5)" : {
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "f473e0880229978f",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 5 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201160,
+        "stop" : 1579030201161,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c59f2bf59fad470f",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 5 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201160,
+        "stop" : 1579030201161,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f2db859ecdb91bce",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 5 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201160,
+        "stop" : 1579030201161,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a44a87a507611c5e",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 5 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579029492559,
+        "stop" : 1579029492559,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1b89c2b69ec3c520",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 5 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579029492559,
+        "stop" : 1579029492559,
+        "duration" : 0
+      }
+    } ]
+  },
+  "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetAllUsers" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "a28b03e4043ed331",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579264538133,
+        "stop" : 1579264538348,
+        "duration" : 215
+      }
+    }, {
+      "uid" : "908aea98c132f511",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579264074871,
+        "stop" : 1579264075081,
+        "duration" : 210
+      }
+    }, {
+      "uid" : "ae52864584074dbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579190943363,
+        "stop" : 1579190943486,
+        "duration" : 123
+      }
+    } ]
+  },
+  "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetUser" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "5e41f4ae5ba00d4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579264538384,
+        "stop" : 1579264538395,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "dad94bfdda88f29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579264075118,
+        "stop" : 1579264075128,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "20127c4ed2ef9a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579190943521,
+        "stop" : 1579190943530,
+        "duration" : 9
+      }
+    } ]
+  },
+  "nunit_restsharp_demo_project.AllureTest.EvenTest(0)" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "9edfdea8e7f17272",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201082,
+        "stop" : 1579030201097,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "70049c122d6f431b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201082,
+        "stop" : 1579030201097,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "53f10e841a13c392",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201082,
+        "stop" : 1579030201097,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "9cd51579e8e947b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579029492483,
+        "stop" : 1579029492495,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "dcd7c850d3c90269",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579029492483,
+        "stop" : 1579029492495,
+        "duration" : 12
+      }
+    } ]
+  },
+  "nunit_restsharp_demo_project.AllureTest.EvenTest(1)" : {
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "a930972f4bc873a0",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 1 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201124,
+        "stop" : 1579030201157,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "91366ede61be65fe",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 1 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201124,
+        "stop" : 1579030201157,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "f03162d9116cc562",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 1 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201124,
+        "stop" : 1579030201157,
+        "duration" : 33
+      }
+    }, {
+      "uid" : "fc0486bf52ddfa8b",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 1 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579029492520,
+        "stop" : 1579029492555,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "f4e0e160d122a8c5",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 1 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579029492520,
+        "stop" : 1579029492555,
+        "duration" : 35
+      }
+    } ]
+  },
+  "nunit_restsharp_demo_project.AllureTest.EvenTest(2)" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "9f29680aa82aa3ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201157,
+        "stop" : 1579030201158,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e836f5f002e81593",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201157,
+        "stop" : 1579030201158,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f4b049b564807059",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579030201157,
+        "stop" : 1579030201158,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fc228774a647f3b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579029492556,
+        "stop" : 1579029492556,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b8fdeacd8ee30f16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579029492556,
+        "stop" : 1579029492556,
+        "duration" : 0
+      }
+    } ]
+  },
+  "nunit_restsharp_demo_project.AllureTest.EvenTest(3)" : {
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "602219d3a2ba465c",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 3 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201158,
+        "stop" : 1579030201159,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9c8d45304c905739",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 3 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201158,
+        "stop" : 1579030201159,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "66eb3029ee6b0337",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 3 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579030201158,
+        "stop" : 1579030201159,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c8b04111fa202069",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 3 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579029492556,
+        "stop" : 1579029492557,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f0286450e8947761",
+      "status" : "failed",
+      "statusDetails" : "  Oh no :( 3 % 2 = 1\n  Expected: True\n  But was:  False\n",
+      "time" : {
+        "start" : 1579029492556,
+        "stop" : 1579029492557,
+        "duration" : 1
+      }
+    } ]
+  }
+}
