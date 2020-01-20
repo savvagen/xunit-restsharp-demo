@@ -14,8 +14,8 @@
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_xunit-restsharp-demo-project.589479947.00" t="ExcludeRecursive" />
     <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p=".git/info/exclude" t="IncludeRecursive" />
       <e p="nunit-restsharp-demo-project" t="IncludeRecursive">
-        <e p=".gitignore" t="Include" />
         <e p="allure-results" t="Include">
           <e p="02dc443036f8440296f69ff1a1abec68-attachment.txt" t="Include" />
           <e p="53eefb000ce3441090e74651888fbd8b-attachment.txt" t="Include" />
@@ -93,7 +93,6 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="xunit-restsharp-demo-project" t="IncludeRecursive">
-        <e p=".gitignore" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Client" t="Include">
           <e p="ApiClient.cs" t="Include" />

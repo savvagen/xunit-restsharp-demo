@@ -22,12 +22,60 @@
     <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
     <option name="showStatusBarWidget" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7a281de-1b2c-4ed4-ab43-ce0a07d19a2d" name="Default Changelist" comment="Finished home demo">
       <changelist_data name="" email="" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +175,6 @@
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/MyTests.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/myapp.log" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Logger/Logger.cs" />
-        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/nunit-restsharp-demo-project.csproj" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/AssemblyInfo.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/Examples/MyTests.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/ApiClient.cs" />
@@ -146,6 +193,7 @@
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/Conditions.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Assertions/AssertableResponse.cs" />
+        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/nunit-restsharp-demo-project.csproj" />
       </list>
     </option>
   </component>
@@ -218,7 +266,7 @@
       <workItem from="1579186548848" duration="29581000" />
       <workItem from="1579533200965" duration="464000" />
       <workItem from="1579541108467" duration="203000" />
-      <workItem from="1579541332474" duration="864000" />
+      <workItem from="1579541332474" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="Finished home demo">
       <created>1579265470434</created>
@@ -439,11 +487,11 @@
     <state x="240" y="55" key="SettingsEditor/0.23.1680.964@0.23.1680.964" timestamp="1579082841694" />
     <state x="240" y="55" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1579193159702" />
     <state x="240" y="55" key="SettingsEditor/0.23.1680.966@0.23.1680.966" timestamp="1579264902666" />
-    <state x="340" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579542346997">
+    <state x="340" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579543272159">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="340" y="180" key="Vcs.Push.Dialog.v2/0.23.1680.966@0.23.1680.966" timestamp="1579265950117" />
-    <state x="340" y="181" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1579542346997" />
+    <state x="340" y="181" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1579543272159" />
     <state x="100" y="123" width="1480" height="761" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579266196398">
       <screen x="0" y="23" width="1680" height="966" />
     </state>
