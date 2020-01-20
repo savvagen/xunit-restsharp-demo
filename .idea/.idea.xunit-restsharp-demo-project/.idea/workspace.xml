@@ -26,218 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7a281de-1b2c-4ed4-ab43-ce0a07d19a2d" name="Default Changelist" comment="Finished home demo">
       <changelist_data name="" email="" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/BodyFieldCondition.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/02dc443036f8440296f69ff1a1abec68-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/53eefb000ce3441090e74651888fbd8b-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/a49e8ffecdc7464f954c1a8a473c0fdd-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/b486329069544e26bd7865fabc9f74db-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/cc96ff88d755447e8359e820314c4172-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/ece5c8bbf71c45fe88eb94c7aedb12d8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/f01494b7db3847bc8d7a2b269382b15d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/face58533d3b4115be997a42846b05b0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allure-results/fe14d23480624375b47232c9132d2f9d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Logs\Example.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/log4net.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/log4net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/myapp.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit.engine.netstandard.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/myapp.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project.sln.DotSettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/DialectSoftware.Web.JsAPI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/DialectSoftware.Web.UI.CustomUserControls.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/FluentAssertions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/HSNXT.Unirest.Net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/RestSharp.Serializers.NewtonsoftJson.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/RestSharp.Serializers.Utf8Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/RestSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/System.Net.Http.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/System.Net.Http.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/Utf8Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/allureConfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/testhost.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/unirest-net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit-restsharp-demo-project.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit-restsharp-demo-project.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit-restsharp-demo-project.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit-restsharp-demo-project.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit-restsharp-demo-project.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit.abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit.assert.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.dll._asi_refs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/xunit-restsharp-demo-project.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/xunit-restsharp-demo-project.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/xunit-restsharp-demo-project.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/xunit-restsharp-demo-project.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Assertions/AssertableResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Assertions/AssertableResponse.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/ContentTypeCondition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/ContentTypeCondition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/StatusCodeCondition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/StatusCodeCondition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/Conditions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/Conditions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ICondition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ICondition.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Services/UserApiService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Services/UserApiService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Models/User.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Services/UserService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestAssured/UserTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestAssured/UserTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestSharp/UserServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestSharp/UserServiceTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestSharp/UserTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestSharp/UserTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/log4net.config" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/log4net.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/nunit-restsharp-demo-project.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/nunit-restsharp-demo-project.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/nunit-restsharp-demo-project.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/nunit-restsharp-demo-project.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/nunit-restsharp-demo-project.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/nunit-restsharp-demo-project.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xunit-restsharp-demo-project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xunit-restsharp-demo-project/xunit-restsharp-demo-project.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/xunit-restsharp-demo-project.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,8 +143,8 @@
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/ContentTypeCondition.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/StatusCodeCondition.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/Conditions.cs" />
-        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Assertions/AssertableResponse.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" />
+        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Assertions/AssertableResponse.cs" />
       </list>
     </option>
   </component>
@@ -428,7 +217,7 @@
       <workItem from="1579186548848" duration="29581000" />
       <workItem from="1579533200965" duration="464000" />
       <workItem from="1579541108467" duration="203000" />
-      <workItem from="1579541332474" duration="303000" />
+      <workItem from="1579541332474" duration="583000" />
     </task>
     <task id="LOCAL-00001" summary="Finished home demo">
       <created>1579265470434</created>
@@ -479,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579266655995</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finished home demo">
+      <created>1579541776026</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579541776026</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,11 +431,11 @@
     <state x="240" y="55" key="SettingsEditor/0.23.1680.964@0.23.1680.964" timestamp="1579082841694" />
     <state x="240" y="55" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1579193159702" />
     <state x="240" y="55" key="SettingsEditor/0.23.1680.966@0.23.1680.966" timestamp="1579264902666" />
-    <state x="340" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579541228505">
+    <state x="340" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579541978288">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="340" y="180" key="Vcs.Push.Dialog.v2/0.23.1680.966@0.23.1680.966" timestamp="1579265950117" />
-    <state x="340" y="181" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1579541228505" />
+    <state x="340" y="181" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1579541978288" />
     <state x="100" y="123" width="1480" height="761" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579266196398">
       <screen x="0" y="23" width="1680" height="966" />
     </state>
