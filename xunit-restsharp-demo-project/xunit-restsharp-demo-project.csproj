@@ -22,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="JsonServer"/>
+      <Folder Include="JsonServer" />
     </ItemGroup>
 
 </Project>
