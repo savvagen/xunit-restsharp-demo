@@ -1,14 +1,14 @@
 using System;
 using Allure.Commons;
 using log4net;
+using Newtonsoft.Json.Linq;
 using NUnit.Allure.Core;
-using NUnit.Allure.Steps;
 using nunit_restsharp_demo_project.Core.Conditions;
 using RestSharp;
 
 namespace nunit_restsharp_demo_project.Core.Assertions
 {
-    public class AssertableResponse<T>
+   public class AssertableResponse<T>
     {
         // private static ILog Log = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
         private static ILog Log = LogManager.GetLogger(typeof(AssertableResponse));
@@ -19,10 +19,9 @@ namespace nunit_restsharp_demo_project.Core.Assertions
             Response = response;
         }
 
-        
-        //[AllureStep()]
-        public AssertableResponse<T> shouldHave(ICondition condition)
+        public AssertableResponse<T> ShouldHave(ICondition condition)
         {
+            
             AllureLifecycle.Instance.WrapInStep(() =>
             {
                 Log.Info($"Check for: {condition}");
@@ -30,7 +29,39 @@ namespace nunit_restsharp_demo_project.Core.Assertions
             }, $"Check condition: {condition}");
             return this;
         }
+        
+        public AssertableResponse<T> ShouldNotHave(ICondition condition)
+        {
+            AllureLifecycle.Instance.WrapInStep(() =>
+            {
+                Log.Info($"Check is not: {condition}");
+                condition.uncheck(Response);
+            }, $"Check is not: {condition}");
+            return this;
+        }
+        
+        /*
+         * Quick Access Methods
+         */
+        
+        public T ExtractBody()
+        {
+            return JObject.Parse(Response.Content).ToObject<T>();
+        }
+        
+        public JObject JsonPath()
+        {
+            return JObject.Parse(Response.Content);
+        }
+        
+        public string GetJsonField(string jsonPath)
+        {
+            return JObject.Parse(Response.Content).SelectToken(jsonPath).Value<string>();
+        }
     }
+    
+    
+    
     
     public class AssertableResponse
     {
@@ -42,8 +73,7 @@ namespace nunit_restsharp_demo_project.Core.Assertions
             Response = response;
         }
         
-        //[AllureStep()]
-        public AssertableResponse shouldHave(ICondition condition)
+        public AssertableResponse ShouldHave(ICondition condition)
         {
             AllureLifecycle.Instance.WrapInStep(() =>
             {
@@ -52,5 +82,43 @@ namespace nunit_restsharp_demo_project.Core.Assertions
             }, $"Check condition: {condition}");
             return this;
         }
+        
+        public AssertableResponse ShouldNotHave(ICondition condition)
+        {
+            AllureLifecycle.Instance.WrapInStep(() =>
+            {
+                Log.Info($"Check is not: {condition}");
+                condition.uncheck(Response);
+            }, $"Check is not: {condition}");
+            return this;
+        }
+
+        /*
+        * Quick Access Methods
+        */
+
+
+        public T ExtractBodyAs<T>()
+        {
+            // return JsonConvert.DeserializeObject<T>(Response.Content);
+            return JObject.Parse(Response.Content).ToObject<T>();
+        }
+
+        public JObject JsonPath()
+        {
+            return JObject.Parse(Response.Content);
+        }
+
+        public string GetJsonField(string jsonPath)
+        {
+            return JObject.Parse(Response.Content).SelectToken(jsonPath).Value<string>();
+        }
+
+        public T GetJsonField<T>(string jsonPath)
+        {
+            return JObject.Parse(Response.Content).SelectToken(jsonPath).Value<T>();
+        }
+
+
     }
 }

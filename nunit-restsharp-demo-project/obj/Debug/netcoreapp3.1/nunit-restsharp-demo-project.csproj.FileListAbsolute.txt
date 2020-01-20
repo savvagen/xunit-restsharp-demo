@@ -1,6 +1,8 @@
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit.engine.netstandard.dll
+/Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/allureConfig.json
+/Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/log4net.config
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.deps.json
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.runtimeconfig.json
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.runtimeconfig.dev.json
@@ -105,5 +107,3 @@
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csproj.CopyComplete
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll
 /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb
-/Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/allureConfig.json
-/Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/log4net.config

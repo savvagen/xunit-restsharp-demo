@@ -1,0 +1,13 @@
+2020-01-20 15:40:51,253 DEBUG nunit_restsharp_demo_project.Core.ApiClient - Request:
+2020-01-20 15:40:51,260 DEBUG nunit_restsharp_demo_project.Core.ApiClient - GET
+2020-01-20 15:40:51,262 DEBUG nunit_restsharp_demo_project.Core.ApiClient - http://localhost:3000/users/1
+2020-01-20 15:40:51,262 DEBUG nunit_restsharp_demo_project.Core.ApiClient - -----
+2020-01-20 15:40:51,398 DEBUG nunit_restsharp_demo_project.Core.ApiClient - Response:
+2020-01-20 15:40:51,398 DEBUG nunit_restsharp_demo_project.Core.ApiClient - OK
+2020-01-20 15:40:51,398 DEBUG nunit_restsharp_demo_project.Core.ApiClient - {
+  "id": 1,
+  "name": "user1",
+  "username": "user_name1",
+  "email": "user1@test.com"
+}
+2020-01-20 15:40:51,400 INFO nunit_restsharp_demo_project.Core.Assertions.AssertableResponse - Check for: Status code 200

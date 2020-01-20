@@ -1,0 +1,12 @@
+{
+  "uuid": "20e4a7c0-cd92-47cd-87e0-e04df4048172-tc-0-1029",
+  "name": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetAndExtractUser",
+  "children": [
+    "cd3992bf-8e0b-4320-9139-563a965cb680-tr-0-1031"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1579527399348,
+  "stop": 1579527399588
+}

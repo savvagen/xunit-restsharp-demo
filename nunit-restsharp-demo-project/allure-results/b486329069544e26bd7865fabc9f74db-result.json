@@ -1,0 +1,120 @@
+{
+  "uuid": "cd3992bf-8e0b-4320-9139-563a965cb680-tr-0-1031",
+  "historyId": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetAndExtractUser",
+  "fullName": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetAndExtractUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "ip-172-23-53-18"
+    },
+    {
+      "name": "testClass",
+      "value": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ShouldGetAndExtractUser"
+    },
+    {
+      "name": "package",
+      "value": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "feature",
+      "value": "Users"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub#1",
+      "url": "https://jira.com/browse/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    }
+  ],
+  "name": "ShouldGetAndExtractUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ShouldGetAndExtractUser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "GetUser",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1579527399357,
+          "stop": 1579527399540
+        },
+        {
+          "name": "Check condition: Status code 200",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1579527399541,
+          "stop": 1579527399545
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "a49e8ffecdc7464f954c1a8a473c0fdd-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1579527399351,
+      "stop": 1579527399553
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1579527399350,
+  "stop": 1579527399559
+}

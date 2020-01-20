@@ -2,9 +2,9 @@ using System;
 using FluentAssertions;
 using Newtonsoft.Json;
 using NUnit.Framework;
+using nunit_restsharp_demo_project.Models;
 using RA;
 using RestSharp.Serialization;
-using xunit_restsharp_demo_project.Models;
 
 namespace nunit_restsharp_demo_project.Test
 {

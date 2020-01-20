@@ -1,0 +1,4 @@
+2020-01-17 13:38:41,191 [NonParallelWorker] INFO nunit_restsharp_demo_project.Logger - Test Started.
+2020-01-17 13:38:41,198 [NonParallelWorker] INFO nunit_restsharp_demo_project.Logger - Test Passed.
+2020-01-17 13:45:42,298 [NonParallelWorker] INFO nunit_restsharp_demo_project.MyTests - Test Started.
+2020-01-17 13:45:42,306 [NonParallelWorker] INFO nunit_restsharp_demo_project.MyTests - Test Passed.

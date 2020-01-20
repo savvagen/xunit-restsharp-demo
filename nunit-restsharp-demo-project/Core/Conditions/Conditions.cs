@@ -14,6 +14,11 @@ namespace nunit_restsharp_demo_project.Core.Conditions
         {
             return new ContentTypeCondition(contentType);
         }
+
+        public static ICondition Body(string jsonPath, string value)
+        {
+            return new BodyFieldCondition(jsonPath, value);
+        }
         
     }
 }

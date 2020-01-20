@@ -1,3 +1,14 @@
+.idea
+nunit-restsharp-demo-project/myapp.log
+nunit-restsharp-demo-project/allure-results
+nunit-restsharp-demo-project/allure-report
+nunit-restsharp-demo-project/bin
+nunit-restsharp-demo-project/obj
+nunit-restsharp-demo-project/packages
+xunit-restsharp-demo-project/myapp.log
+xunit-restsharp-demo-project/bin
+xunit-restsharp-demo-project/obj
+xunit-restsharp-demo-project/packages
 bin/
 obj/
 /packages/

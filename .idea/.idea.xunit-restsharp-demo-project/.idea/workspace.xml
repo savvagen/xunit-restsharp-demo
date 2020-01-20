@@ -26,6 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7a281de-1b2c-4ed4-ab43-ce0a07d19a2d" name="Default Changelist" comment="Finished home demo">
       <changelist_data name="" email="" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nunit-restsharp-demo-project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/xunit-restsharp-demo-project/UserTests.cs" root0="FORCE_HIGHLIGHTING" />
@@ -217,7 +218,7 @@
       <workItem from="1579186548848" duration="29581000" />
       <workItem from="1579533200965" duration="464000" />
       <workItem from="1579541108467" duration="203000" />
-      <workItem from="1579541332474" duration="583000" />
+      <workItem from="1579541332474" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="Finished home demo">
       <created>1579265470434</created>
@@ -275,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579541776026</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Finished home demo">
+      <created>1579542121385</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579542121385</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,11 +439,11 @@
     <state x="240" y="55" key="SettingsEditor/0.23.1680.964@0.23.1680.964" timestamp="1579082841694" />
     <state x="240" y="55" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1579193159702" />
     <state x="240" y="55" key="SettingsEditor/0.23.1680.966@0.23.1680.966" timestamp="1579264902666" />
-    <state x="340" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579541978288">
+    <state x="340" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579542346997">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="340" y="180" key="Vcs.Push.Dialog.v2/0.23.1680.966@0.23.1680.966" timestamp="1579265950117" />
-    <state x="340" y="181" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1579541978288" />
+    <state x="340" y="181" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1579542346997" />
     <state x="100" y="123" width="1480" height="761" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579266196398">
       <screen x="0" y="23" width="1680" height="966" />
     </state>

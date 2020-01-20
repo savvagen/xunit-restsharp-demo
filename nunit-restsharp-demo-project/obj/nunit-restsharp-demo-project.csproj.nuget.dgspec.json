@@ -17,14 +17,13 @@
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/shenchevskyi/.nuget/NuGet/NuGet.Config"
+          "/Users/shenchevskyi/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://artifacts.k8s.us-west-2.dev.earnin.com/repository/debug-nugets/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

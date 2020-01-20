@@ -6,7 +6,6 @@ using nunit_restsharp_demo_project.Core.Assertions;
 using RestSharp;
 using RestSharp.Extensions;
 using RestSharp.Newtonsoft.Json.Extensions;
-using xunit_restsharp_demo_project.Models;
 
 namespace nunit_restsharp_demo_project.Core.Services
 {

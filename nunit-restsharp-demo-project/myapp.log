@@ -1,0 +1,39 @@
+2020-01-20 15:36:16,942 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - Request:
+2020-01-20 15:36:16,949 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - GET
+2020-01-20 15:36:16,950 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - http://localhost:3000/users/1
+2020-01-20 15:36:16,950 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - -----
+2020-01-20 15:36:17,131 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - Response:
+2020-01-20 15:36:17,131 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - OK
+2020-01-20 15:36:17,131 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - {
+  "id": 1,
+  "name": "user1",
+  "username": "user_name1",
+  "email": "user1@test.com"
+}
+2020-01-20 15:36:17,133 [NonParallelWorker] INFO nunit_restsharp_demo_project.Core.Assertions.AssertableResponse - Check for: Status code 200
+2020-01-20 15:36:39,408 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - Request:
+2020-01-20 15:36:39,416 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - GET
+2020-01-20 15:36:39,418 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - http://localhost:3000/users/1
+2020-01-20 15:36:39,418 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - -----
+2020-01-20 15:36:39,539 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - Response:
+2020-01-20 15:36:39,540 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - OK
+2020-01-20 15:36:39,540 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - {
+  "id": 1,
+  "name": "user1",
+  "username": "user_name1",
+  "email": "user1@test.com"
+}
+2020-01-20 15:36:39,542 [NonParallelWorker] INFO nunit_restsharp_demo_project.Core.Assertions.AssertableResponse - Check for: Status code 200
+2020-01-20 15:40:51,253 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - Request:
+2020-01-20 15:40:51,260 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - GET
+2020-01-20 15:40:51,262 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - http://localhost:3000/users/1
+2020-01-20 15:40:51,262 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - -----
+2020-01-20 15:40:51,398 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - Response:
+2020-01-20 15:40:51,398 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - OK
+2020-01-20 15:40:51,398 [NonParallelWorker] DEBUG nunit_restsharp_demo_project.Core.ApiClient - {
+  "id": 1,
+  "name": "user1",
+  "username": "user_name1",
+  "email": "user1@test.com"
+}
+2020-01-20 15:40:51,400 [NonParallelWorker] INFO nunit_restsharp_demo_project.Core.Assertions.AssertableResponse - Check for: Status code 200

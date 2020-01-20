@@ -2,7 +2,7 @@ using System;
 using System.Net;
 using FluentAssertions;
 using NUnit.Framework;
-using xunit_restsharp_demo_project.Models;
+using nunit_restsharp_demo_project.Models;
 
 namespace nunit_restsharp_demo_project.Test.RestSharp
 {

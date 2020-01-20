@@ -7,10 +7,10 @@ using FluentAssertions;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using NUnit.Framework;
+using nunit_restsharp_demo_project.Models;
 using RestSharp;
 using RestSharp.Serialization;
 using RestSharp.Serialization.Json;
-using xunit_restsharp_demo_project.Models;
 
 namespace nunit_restsharp_demo_project.Test.RestSharp
 {

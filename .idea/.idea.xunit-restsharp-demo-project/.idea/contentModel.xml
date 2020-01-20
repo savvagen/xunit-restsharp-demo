@@ -93,6 +93,7 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="xunit-restsharp-demo-project" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Client" t="Include">
           <e p="ApiClient.cs" t="Include" />

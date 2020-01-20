@@ -1,8 +1,8 @@
 using Newtonsoft.Json.Linq;
+using nunit_restsharp_demo_project.Models;
 using nunit_restsharp_demo_project.Test.RestSharp;
 using RestSharp;
 using RestSharp.Serialization;
-using xunit_restsharp_demo_project.Models;
 
 namespace nunit_restsharp_demo_project.Services
 {

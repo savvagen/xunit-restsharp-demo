@@ -1,0 +1,124 @@
+{
+  "uuid": "9401f671-1c07-4437-82fa-6dceb1dd50b8-tr-0-1031",
+  "historyId": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetAndExtractUser",
+  "fullName": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetAndExtractUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "ip-172-23-53-18"
+    },
+    {
+      "name": "testClass",
+      "value": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ShouldGetAndExtractUser"
+    },
+    {
+      "name": "package",
+      "value": "nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "feature",
+      "value": "Users"
+    },
+    {
+      "name": "subSuite",
+      "value": "Example"
+    },
+    {
+      "name": "severity",
+      "value": "critical"
+    }
+  ],
+  "links": [
+    {
+      "name": "GitHub#1",
+      "url": "https://jira.com/browse/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    }
+  ],
+  "name": "ShouldGetAndExtractUser",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Expected user.email to be \n\"user1@gmail.com\" with a length of 15, but \n\"user1@test.com\" has a length of 14, differs near \"tes\" (index 6).",
+    "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\n   at FluentAssertions.Primitives.StringEqualityValidator.ValidateAgainstLengthDifferences()\n   at FluentAssertions.Primitives.StringValidator.Validate()\n   at FluentAssertions.Primitives.StringAssertions.Be(String expected, String because, Object[] becauseArgs)\n   at nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetAndExtractUser() in /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs:line 44\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ShouldGetAndExtractUser",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "Expected user.email to be \n\"user1@gmail.com\" with a length of 15, but \n\"user1@test.com\" has a length of 14, differs near \"tes\" (index 6).",
+        "trace": "   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)\n   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)\n   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\n   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)\n   at FluentAssertions.Primitives.StringEqualityValidator.ValidateAgainstLengthDifferences()\n   at FluentAssertions.Primitives.StringValidator.Validate()\n   at FluentAssertions.Primitives.StringAssertions.Be(String expected, String because, Object[] becauseArgs)\n   at nunit_restsharp_demo_project.Test.NewTests.UserApiServiceTests.ShouldGetAndExtractUser() in /Users/shenchevskyi/RiderProjects/xunit-restsharp-demo-project/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs:line 44\n"
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "GetUser",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1579527376887,
+          "stop": 1579527377132
+        },
+        {
+          "name": "Check condition: Status code 200",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1579527377133,
+          "stop": 1579527377138
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "53eefb000ce3441090e74651888fbd8b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1579527376879,
+      "stop": 1579527377281
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1579527376878,
+  "stop": 1579527377287
+}

@@ -1,9 +1,14 @@
 
-namespace xunit_restsharp_demo_project.Models
+using Newtonsoft.Json;
+
+namespace nunit_restsharp_demo_project.Models
 {
     public class User
     {
+        [JsonProperty("id")]
         public int id { get; set; }
+        
+        [JsonProperty("name")]
         public string name{ get; set; }
         public string email{ get; set; }
         public string username{ get; set; }
