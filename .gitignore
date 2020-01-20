@@ -12,3 +12,5 @@ xunit-restsharp-demo-project/packages
 bin/
 obj/
 /packages/
+/test
+
