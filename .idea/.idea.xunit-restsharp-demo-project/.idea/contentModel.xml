@@ -18,10 +18,28 @@
       <e p="nunit-restsharp-demo-project" t="IncludeRecursive">
         <e p="allure-results" t="Include">
           <e p="02dc443036f8440296f69ff1a1abec68-attachment.txt" t="Include" />
+          <e p="0a18870079fd4d2dad7856b0f503b890-container.json" t="Include" />
+          <e p="43fb4db3d50944209edab0f456b69001-attachment.txt" t="Include" />
+          <e p="4e8ed5b58d794294903ddbc392e8380b-container.json" t="Include" />
+          <e p="4f960a0048334de7b71a024a6f66205c-result.json" t="Include" />
           <e p="53eefb000ce3441090e74651888fbd8b-attachment.txt" t="Include" />
+          <e p="67759818dc8d48a79985afd1258ce8dc-container.json" t="Include" />
+          <e p="6b5c00035c70413d9384e08a32360de6-container.json" t="Include" />
+          <e p="6ec2315e147444969522ef55168c6b96-attachment.txt" t="Include" />
+          <e p="7e4b822e408946e99588b89728efccc9-result.json" t="Include" />
+          <e p="872f8e6a365d4fb4967c439e01a35a7c-container.json" t="Include" />
+          <e p="886127d11f174ab0a4add05a22b86762-container.json" t="Include" />
+          <e p="8acc90f752e74ac09faab5ab14febdea-attachment.txt" t="Include" />
+          <e p="984fe7ade4b04eb381ff1f1f623fc1c6-attachment.txt" t="Include" />
           <e p="a49e8ffecdc7464f954c1a8a473c0fdd-attachment.txt" t="Include" />
           <e p="b486329069544e26bd7865fabc9f74db-result.json" t="Include" />
+          <e p="b82ec23f1eb640a69a5628080d6b2290-attachment.txt" t="Include" />
+          <e p="bdbad3e7d8b545018ace890ff307da53-result.json" t="Include" />
+          <e p="c909083f080b47bab0e63cdf9894b304-result.json" t="Include" />
+          <e p="c93f01cf8e6d40ddb7853347036dadfc-result.json" t="Include" />
           <e p="cc96ff88d755447e8359e820314c4172-result.json" t="Include" />
+          <e p="e21ea97014384017adbf9de1dffc7cc5-attachment.txt" t="Include" />
+          <e p="e4a23b65bac54b198ea374c78cb4f9e2-result.json" t="Include" />
           <e p="ece5c8bbf71c45fe88eb94c7aedb12d8-container.json" t="Include" />
           <e p="f01494b7db3847bc8d7a2b269382b15d-result.json" t="Include" />
           <e p="face58533d3b4115be997a42846b05b0-container.json" t="Include" />
@@ -31,7 +49,6 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Core" t="Include">
           <e p="ApiClient.cs" t="Include" />
-          <e p="AssemblyInfo.cs" t="Include" />
           <e p="Assertions" t="Include">
             <e p="AssertableResponse.cs" t="Include" />
           </e>

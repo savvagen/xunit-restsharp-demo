@@ -36,46 +36,22 @@
       <changelist_data name="" email="" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xunit-restsharp-demo-project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/ApiClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/ApiClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Logger/Logger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Logger/Logger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/Examples/MyTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/Examples/MyTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/allureConfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/allureConfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/myapp.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/nunit-restsharp-demo-project.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/nunit-restsharp-demo-project.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/nunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/nunit-restsharp-demo-project.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/xunit-restsharp-demo-project/obj/Debug/netcoreapp3.1/xunit-restsharp-demo-project.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +59,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nunit-restsharp-demo-project" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/xunit-restsharp-demo-project/UserTests.cs" root0="FORCE_HIGHLIGHTING" />
@@ -93,12 +69,10 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E3D211D8-F232-4C40-930D-23641285009B/cc/be1a9332/AllureSeverityAttribute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Test/Examples/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestSharp/UserTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/allureConfig.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestSharp/BaseTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/xunit-restsharp-demo-project/ParallelTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestSharp/Requests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/.nuget/packages/noksa.nunit.allure/3.0.4/contentFiles/any/netstandard2.0/allureConfig.json" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Core/ApiClient.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestAssured/BaseTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/TestBase.cs" root0="FORCE_HIGHLIGHTING" />
@@ -107,7 +81,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/131B7A32-268B-4FCC-BF99-D0692692AD48/5f/be2f8092/SetupContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Test/RestAssured/UserTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DDB5D1E-0CBF-4EA3-975B-0B8CF504071D/b1/1ca67669/AllureStepAttribute.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Core/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A98EFEA3-5DA9-458B-A52F-C7C220FECDED/21/864eb834/HttpStatusCode.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/xunit-restsharp-demo-project/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Services/UserApiService.cs" root0="FORCE_HIGHLIGHTING" />
@@ -122,6 +95,7 @@
     <setting file="file://$USER_HOME$/.local/share/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Attributes/SetUpFixtureAttribute.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/131B7A32-268B-4FCC-BF99-D0692692AD48/35/fd1143d3/ResponseContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/xunit-restsharp-demo-project/TestFixture.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/allureConfig.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Logger/Logger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/nunit-restsharp-demo-project/log4net.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/xunit-restsharp-demo-project/Fixtures/ServicesFixture.cs" root0="FORCE_HIGHLIGHTING" />
@@ -166,21 +140,15 @@
         <option value="$PROJECT_DIR$/xunit-restsharp-demo-project/TestFixture.cs" />
         <option value="$PROJECT_DIR$/xunit-restsharp-demo-project/TestCollectionFixtures.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/ParallelTests.cs" />
-        <option value="$PROJECT_DIR$/xunit-restsharp-demo-project/xunit-restsharp-demo-project.csproj" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/App.config" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Test.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/References/log4net.config" />
-        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/allureConfig.json" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Logger.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/MyTests.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/myapp.log" />
-        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Logger/Logger.cs" />
-        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/AssemblyInfo.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/Examples/MyTests.cs" />
-        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/ApiClient.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Services/UserApiService.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/.gitignore" />
-        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/log4net.config" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/swagger.json" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.gitignore" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Models/User.cs" />
@@ -191,9 +159,15 @@
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/ContentTypeCondition.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/ConditionTypes/StatusCodeCondition.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Conditions/Conditions.cs" />
-        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Assertions/AssertableResponse.cs" />
         <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/nunit-restsharp-demo-project.csproj" />
+        <option value="$PROJECT_DIR$/xunit-restsharp-demo-project/xunit-restsharp-demo-project.csproj" />
+        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/ApiClient.cs" />
+        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Test/NewTests/UserApiServiceTests.cs" />
+        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/log4net.config" />
+        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/Core/Logger/Logger.cs" />
+        <option value="$PROJECT_DIR$/nunit-restsharp-demo-project/allureConfig.json" />
       </list>
     </option>
   </component>
@@ -267,6 +241,11 @@
       <workItem from="1579533200965" duration="464000" />
       <workItem from="1579541108467" duration="203000" />
       <workItem from="1579541332474" duration="1790000" />
+      <workItem from="1579543175070" duration="530000" />
+      <workItem from="1579631647700" duration="824000" />
+      <workItem from="1579633036044" duration="931000" />
+      <workItem from="1579673283548" duration="1664000" />
+      <workItem from="1579675104558" duration="1423000" />
     </task>
     <task id="LOCAL-00001" summary="Finished home demo">
       <created>1579265470434</created>
@@ -362,6 +341,10 @@
       <screen x="0" y="23" width="1680" height="965" />
     </state>
     <state x="304" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.965@0.23.1680.965" timestamp="1579189842544" />
+    <state x="168" y="105" key="DiffContextDialog" timestamp="1579543410995">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="168" y="105" key="DiffContextDialog/0.23.1680.972@0.23.1680.972" timestamp="1579543410995" />
     <state width="1628" height="461" key="GridCell.Tab.0.bottom" timestamp="1579081757429">
       <screen x="0" y="23" width="1680" height="962" />
     </state>
@@ -487,11 +470,11 @@
     <state x="240" y="55" key="SettingsEditor/0.23.1680.964@0.23.1680.964" timestamp="1579082841694" />
     <state x="240" y="55" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1579193159702" />
     <state x="240" y="55" key="SettingsEditor/0.23.1680.966@0.23.1680.966" timestamp="1579264902666" />
-    <state x="340" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579543272159">
+    <state x="340" y="181" key="Vcs.Push.Dialog.v2" timestamp="1579543417869">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="340" y="180" key="Vcs.Push.Dialog.v2/0.23.1680.966@0.23.1680.966" timestamp="1579265950117" />
-    <state x="340" y="181" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1579543272159" />
+    <state x="340" y="181" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1579543417869" />
     <state x="100" y="123" width="1480" height="761" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579266196398">
       <screen x="0" y="23" width="1680" height="966" />
     </state>
